@@ -1,0 +1,7 @@
+configs:
+      - source: my_config
+        target: /app/config-dev.yaml
+
+configs:
+  my_config:
+    file: ./config-dev.yaml
